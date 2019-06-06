@@ -1,4 +1,8 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+<<<<<<< HEAD
 Made changes on the origin/master.
 Use local changes.
 Second line of Alice.txt
+=======
+Second line of Alice.txt and more text on it
+>>>>>>> Add some more text on Alice.txt
