@@ -2,4 +2,5 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Made changes on the origin/master.
 Use local changes.
 Second line of Alice.txt and more text on it
+Change in new_branch. And some more.
 
